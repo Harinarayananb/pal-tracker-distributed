@@ -50,6 +50,7 @@ subprojects {
         testCompile "org.mockito:mockito-core:$mockitoVersion"
         testCompile "org.assertj:assertj-core:$assertJVersion"
     }
+    
 
     test {
         testLogging {
